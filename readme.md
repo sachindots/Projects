@@ -1,6 +1,5 @@
 # My Projects
 
-
 This repository contains two academic projects in the field of cybersecurity with Machine Learning : Malware Detection using CNN and Deep Learning Firewall. Please note that the code for both projects is confidential as it is part of my academic research.
 
 ## Malware Detection using Convolutional Neural Networks
@@ -102,10 +101,14 @@ Flask is a way for web servers to pass requests to web applications or framework
 
 ### Future Enhancements
 
-1.  Real-Time Detection: Improve the framework to perform real-time malware detection and classification.
-2.  Integration with Antivirus Software: Integrate the model with existing antivirus software to enhance their detection capabilities.
-3.  Additional Features: Incorporate additional features such as behavior analysis and network traffic monitoring for more comprehensive malware detection.
-4.  User Interface Improvements: Improve the dashboard and user interface for better user experience and interaction.
+** Real-Time Detection:** 
+   -  Improve the framework to perform real-time malware detection and classification.
+** Integration with Antivirus Software: **
+   -  Integrate the model with existing antivirus software to enhance their detection capabilities.
+** Additional Features: **
+   -  Incorporate additional features such as behavior analysis and network traffic monitoring for more comprehensive malware detection.
+** User Interface Improvements:**
+   -  Improve the dashboard and user interface for better user experience and interaction.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -195,19 +198,19 @@ Figure 2.1 WAF Dashboard for the sample web application
 
 ### Future Extensions
 
-- **Intrusion Detection Systems (IDS)**:
+**Intrusion Detection Systems (IDS)**:
 
-  - The WAF can be used as an IDS in a large-scale network to protect systems from major cyber attacks.
+  -  The WAF can be used as an IDS in a large-scale network to protect systems from major cyber attacks.
 
-- **Blockchain Protection**:
+**Blockchain Protection**:
 
   - The firewall can be modified to act as an enhanced protection system for bitcoin mines and decentralized applications (DApps).
 
-- **Antivirus**:
+**Antivirus**:
 
   - Antivirus systems can use this model to classify different types of HTTP attacks that pose a threat to a computer and block the malicious actors.
 
 
 ---
 
-Please note that the source code for this project is confidential and not publicly available, as it is part of ongoing academic research. Feel free to explore the project description and reach out if you have any questions or need further assistance.
+Please note that the source code for this project is confidential and not publicly available, as it is part of my academic research. Feel free to explore the project description and reach out if you have any questions or need further assistance.
