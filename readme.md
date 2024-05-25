@@ -1,10 +1,9 @@
 # My Projects
-===========
+
 
 This repository contains two academic projects in the field of cybersecurity with Machine Learning : Malware Detection using CNN and Deep Learning Firewall. Please note that the code for both projects is confidential as it is part of my academic research.
 
 ## Malware Detection using Convolutional Neural Networks
-=====================================================
 
 The project is used in antivirus protection systems where traditional signature-based identifiers  are no longer effective to newly updated malwares. Since they are not cost effective and time  consuming, this project based on Convolutional Neural Networks (CNN) is proposed.  
 
@@ -113,8 +112,6 @@ Flask is a way for web servers to pass requests to web applications or framework
 
 ## Deep Learning Firewall
 
-=====================================================
-
 The **Deep Learning Firewall** project focuses on developing a firewall system that uses deep learning algorithms to intelligently filter and block malicious network traffic. This project enhances traditional firewall capabilities by incorporating advanced machine learning techniques to predict and prevent cyber-attacks.
 
 ### Backend
@@ -186,13 +183,13 @@ The **Deep Learning Firewall** project focuses on developing a firewall system t
 ### Illustrations
 
 Figure 1.1 Sample Web Application Output when applied normal request
-![](/Diagrams/1.1)
+![](/Diagrams/1.1.png)
 
 Figure 1.2 Sample Web Application Output when applied malicious request
-![](/Diagrams/1.2)
+![](/Diagrams/1.2.png)
 
 Figure 2.1 WAF Dashboard for the sample web application
-![](/Diagrams/2.1)
+![](/Diagrams/2.1.png)
 
 
 
